@@ -1,0 +1,6 @@
+.blog-image {
+    width: 100%;
+    height: 400px;        /* constant height */
+    object-fit:scale-down;
+    border-radius: 6px;   /* optional styling */
+}
